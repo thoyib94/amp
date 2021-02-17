@@ -1,37 +1,37 @@
 {
-  "name": "west-java.com",
-  "short_name": "WEST-JAVA",
-  "start_url": "https://www.west-java.com/?m=1",
+  "name": "ctrl.my.id",
+  "short_name": "CTRL",
+  "start_url": "https://www.ctrl.my.id/?m=1",
   "display": "standalone",
   "background_color": "#fff",
   "theme_color": "#2B0C93",
-  "description": "West-Java.com Adalah Blog Yang Membahas Info Wisata, Kuliner, dan info-info menarik Lainnya.",
+  "description": "Blog yang membahas tentang tutorial, trik, dan widget Blogger juga SEO dan Internet.",
   "icons": [{
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s48/crtl.png",
     "sizes": "48x48",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s72/crtl.png",
     "sizes": "72x72",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s96/crtl.png",
     "sizes": "96x96",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s144/crtl.png",
     "sizes": "144x144",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s168/crtl.png",
     "sizes": "168x168",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-Q5YdeUHN96c/YCiQ1cciehI/AAAAAAAAFZM/MUAIQ3mz9eYA01G8ZkRq0qx7Mcx-j4cSACLcBGAsYHQ/s341/west%2Bjava1.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s192/crtl.png",
     "sizes": "192x192",
     "type": "image/png"
   }, {
-    "src": "https://1.bp.blogspot.com/-LMJw6WBZh4I/YCiQlr-wcEI/AAAAAAAAFZE/EiTZoSiyD_4sCp-DR-P7L_I3s7AbQRceACLcBGAsYHQ/s948/west%2Bjava.jpg",
+    "src": "https://1.bp.blogspot.com/-zIU-bk0htsM/YC0eLW7vCrI/AAAAAAAAFww/0VX8Bw7weyoYM_NevIB-LawUhhy7Gm5ugCLcBGAsYHQ/s512/crtl.png",
     "sizes": "512x512",
     "type": "image/png"
   }]
